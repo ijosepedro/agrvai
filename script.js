@@ -2,7 +2,7 @@ const imagens = [
     { src: "A9B1A235-DDF5-4E05-98B2-A516833754B9.JPG", texto: "Você é incrível e especial!" },
     { src: "IMG_2044.PNG", texto: "Sua força inspira todos à sua volta." },
     { src: "A97E6EB8-0E26-40B0-A0EB-8C2ECDE9B719.JPG", texto: "Obrigado por ser quem você é!" },
-    { src: "Vai.jpg", texto: "Seu sorriso ilumina tudo ao redor." },
+    { src: "Vai.JPG", texto: "Seu sorriso ilumina tudo ao redor." },
     { src: "IMG_1638.PNG", texto: "Eu te amo My Mulher!!" }
 ];
 
